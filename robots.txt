@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://nokex.github.io/sitemap.xml 
+Sitemap: http://140.113.249.90:4000/sitemap.xml 

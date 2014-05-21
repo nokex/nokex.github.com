@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://nokex.github.io/atom.xml" rel="self"/>
-  <link href="http://nokex.github.io/"/>
-  <updated>2014-05-21T05:53:12+08:00</updated>
-  <id>http://nokex.github.io/</id>
+  <title><![CDATA[Nokex Blog]]></title>
+  <link href="http://140.113.249.90:4000/atom.xml" rel="self"/>
+  <link href="http://140.113.249.90:4000/"/>
+  <updated>2014-05-21T21:21:13+08:00</updated>
+  <id>http://140.113.249.90:4000/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Nokex]]></name>
+    <email><![CDATA[nokexxx@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://140.113.249.90:4000/blog/2014/05/21/hello-world/"/>
+    <updated>2014-05-21T06:11:05+08:00</updated>
+    <id>http://140.113.249.90:4000/blog/2014/05/21/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
